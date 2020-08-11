@@ -1,0 +1,261 @@
+//
+// Code and syntax highlighting
+//
+// stylelint-disable selector-no-qualifying-type, declaration-block-semicolon-newline-after,declaration-block-single-line-max-declarations, selector-no-type, selector-max-type
+
+code {
+  padding: 0.2em 0.15em;
+  font-weight: 400;
+  background-color: $code-background-color;
+  border: $border $border-color;
+  border-radius: $border-radius;
+}
+
+pre.highlight,
+figure.highlight {
+  padding: $sp-3;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: $code-background-color;
+  border-radius: $border-radius;
+  -webkit-overflow-scrolling: touch;
+
+  code {
+    padding: 0;
+    border: 0;
+  }
+}
+
+.highlighter-rouge {
+  margin-bottom: $sp-3;
+}
+
+.highlight .c {
+  color: #75ff68;
+} // comment //
+.highlight .err {
+  color: #c4d8d8;
+} // error //
+.highlight .g {
+  color: #c4d8d8;
+} // generic //
+.highlight .k {
+  color: #ff85e5;
+} // keyword //
+.highlight .l {
+  color: #c4d8d8;
+} // literal //
+.highlight .n {
+  color: #c4d8d8;
+} // name //
+.highlight .o {
+  color: #ff85e5;
+} // operator //
+.highlight .x {
+  color: #cb4b16;
+} // other //
+.highlight .p {
+  color: #c4d8d8;
+} // punctuation //
+.highlight .cm {
+  color: #75ff68;
+} // comment.multiline //
+.highlight .cp {
+  color: #ff85e5;
+} // comment.preproc //
+.highlight .c1 {
+  color: #75ff68;
+} // comment.single //
+.highlight .cs {
+  color: #ff85e5;
+} // comment.special //
+.highlight .gd {
+  color: #ffd768;
+} // generic.deleted //
+.highlight .ge {
+  font-style: italic;
+  color: #c4d8d8;
+} // generic.emph //
+.highlight .gr {
+  color: #e48585;
+} // generic.error //
+.highlight .gh {
+  color: #cb4b16;
+} // generic.heading //
+.highlight .gi {
+  color: #ff85e5;
+} // generic.inserted //
+.highlight .go {
+  color: #c4d8d8;
+} // generic.output //
+.highlight .gp {
+  color: #c4d8d8;
+} // generic.prompt //
+.highlight .gs {
+  font-weight: bold;
+  color: #c4d8d8;
+} // generic.strong //
+.highlight .gu {
+  color: #cb4b16;
+} // generic.subheading //
+.highlight .gt {
+  color: #c4d8d8;
+} // generic.traceback //
+.highlight .kc {
+  color: #cb4b16;
+} // keyword.constant //
+.highlight .kd {
+  color: #50fdd7;
+} // keyword.declaration //
+.highlight .kn {
+  color: #ff85e5;
+} // keyword.namespace //
+.highlight .kp {
+  color: #ff85e5;
+} // keyword.pseudo //
+.highlight .kr {
+  color: #50fdd7;
+} // keyword.reserved //
+.highlight .kt {
+  color: #e48585;
+} // keyword.type //
+.highlight .ld {
+  color: #c4d8d8;
+} // literal.date //
+.highlight .m {
+  color: #ffd768;
+} // literal.number //
+.highlight .s {
+  color: #ffd768;
+} // literal.string //
+.highlight .na {
+  color: #ffcbee;
+} // name.attribute //
+.highlight .nb {
+  color: #b58900;
+} // name.builtin //
+.highlight .nc {
+  color: #50fdd7;
+} // name.class //
+.highlight .no {
+  color: #cb4b16;
+} // name.constant //
+.highlight .nd {
+  color: #50fdd7;
+} // name.decorator //
+.highlight .ni {
+  color: #cb4b16;
+} // name.entity //
+.highlight .ne {
+  color: #cb4b16;
+} // name.exception //
+.highlight .nf {
+  color: #50fdd7;
+} // name.function //
+.highlight .nl {
+  color: #ffcbee;
+} // name.label //
+.highlight .nn {
+  color: #c4d8d8;
+} // name.namespace //
+.highlight .nx {
+  color: #ffcbee;
+} // name.other //
+.highlight .py {
+  color: #c4d8d8;
+} // name.property //
+.highlight .nt {
+  color: #50fdd7;
+} // name.tag //
+.highlight .nv {
+  color: #50fdd7;
+} // name.variable //
+.highlight .ow {
+  color: #ff85e5;
+} // operator.word //
+.highlight .w {
+  color: #c4d8d8;
+} // text.whitespace //
+.highlight .mf {
+  color: #ffd768;
+} // literal.number.float //
+.highlight .mh {
+  color: #ffd768;
+} // literal.number.hex //
+.highlight .mi {
+  color: #ffd768;
+} // literal.number.integer //
+.highlight .mo {
+  color: #ffd768;
+} // literal.number.oct //
+.highlight .sb {
+  color: #75ff68;
+} // literal.string.backtick //
+.highlight .sc {
+  color: #ffd768;
+} // literal.string.char //
+.highlight .sd {
+  color: #c4d8d8;
+} // literal.string.doc //
+.highlight .s2 {
+  color: #ffd768;
+} // literal.string.double //
+.highlight .se {
+  color: #cb4b16;
+} // literal.string.escape //
+.highlight .sh {
+  color: #c4d8d8;
+} // literal.string.heredoc //
+.highlight .si {
+  color: #ffd768;
+} // literal.string.interpol //
+.highlight .sx {
+  color: #ffd768;
+} // literal.string.other //
+.highlight .sr {
+  color: #e48585;
+} // literal.string.regex //
+.highlight .s1 {
+  color: #7187ff;
+} // literal.string.single //
+.highlight .ss {
+  color: #50fdd7;
+} // literal.string.symbol //
+.highlight .bp {
+  color: #50fdd7;
+} // name.builtin.pseudo //
+.highlight .vc {
+  color: #50fdd7;
+} // name.variable.class //
+.highlight .vg {
+  color: #50fdd7;
+} // name.variable.global //
+.highlight .vi {
+  color: #50fdd7;
+} // name.variable.instance //
+.highlight .il {
+  color: #ffd768;
+} // literal.number.integer.long //
+
+//
+// Code examples (rendered)
+//
+
+.code-example {
+  padding: $sp-3;
+  margin-bottom: $sp-3;
+  overflow: auto;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+
+  + .highlighter-rouge,
+  + figure.highlight {
+    position: relative;
+    margin-top: -$sp-4;
+    border-right: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+}
