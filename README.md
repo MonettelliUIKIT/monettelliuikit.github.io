@@ -2,7 +2,7 @@
 
 # MonettelliUIKIT Documentation
 
-Welcome to **MonettelliUIKIT**. The **Official Documentation** where you will learn from 0 to use this great extension of Visual Studio for Xamarin.Forms with a **"Clean User Interface Style Architecture"** made for productivity and maintenance of application interfaces.
+Welcome to **MonettelliUIKIT**. The **Official Documentation** where you will learn from 0 to use this great extension of Visual Studio for Xamarin.Forms with a **"Clean User Interface Style Architecture"** made for ***productivity and maintenance*** of application interfaces.
 
 For more information click <a href="https://monettelliuikit.github.io" target="_blank">HERE</a>.
 
@@ -15,3 +15,5 @@ It is worth mentioning that, being open source, you can improve the features by 
 ## Credits
 
 Many thanks to all those who <a href="https://monettelliuikit.github.io" target="_blank">collaborated</a> directly and indirectly to this great project.
+
+The site uses the Open Source template called <a href="https://github.com/pmarsceill/just-the-docs" target="_blank">"Just the Docs"</a>.
