@@ -14,4 +14,4 @@ It is worth mentioning that, being open source, you can improve the features by 
 
 ## Credits
 
-The site uses the Open Source template called <a href="https://github.com/pmarsceill/just-the-docs" target="_blank">"Just the Docs"</a>.
+Many thanks to all those who <a href="https://monettelliuikit.github.io" target="_blank">collaborated</a> directly and indirectly to this great project.
