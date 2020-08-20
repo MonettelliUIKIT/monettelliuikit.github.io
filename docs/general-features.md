@@ -19,4 +19,22 @@ Discover everything that **MonettelliUIKIT** offers you, don't say I didn't tell
 
 ---
 
-![Under Construction](https://static.dribbble.com/users/56427/screenshots/6003020/budio_hero_illustration_for_animation_2.gif)
+## Themes in MonettelliUIKIT
+
+<a href="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Themes_in_MonettelliUIKIT.gif" data-fancybox><img src="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Themes_in_MonettelliUIKIT.gif" /></a>
+
+## Automatic removal of spaces by default
+
+<a href="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Responsive_xaml_part1.gif" data-fancybox><img src="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Responsive_xaml_part1.gif" /></a>
+
+## Automatic Tail Truncation on the Labels
+
+<a href="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Responsive_xaml_part2.gif" data-fancybox><img src="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Responsive_xaml_part2.gif" /></a>
+
+## Embedded Font Icons at MonettelliUIKIT
+
+<a href="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Embedded_Font_Icons_at_MonettelliUIKIT.gif" data-fancybox><img src="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Embedded_Font_Icons_at_MonettelliUIKIT.gif" /></a>
+
+## Embedded Font at MonettelliUIKIT
+
+<a href="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Embedded_Font_at_MonettelliUIKIT.gif" data-fancybox><img src="https://raw.githubusercontent.com/MonettelliUIKIT/monettelliuikit.github.io/master/assets/images/Features/Embedded_Font_at_MonettelliUIKIT.gif" /></a>
